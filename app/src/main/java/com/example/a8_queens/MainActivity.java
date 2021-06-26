@@ -15,7 +15,7 @@ import java.util.Iterator;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Don't know how to do algorithmically
+    // Works without these, originally didn't know how to do. Did I figure it out? The world may never know.
 //    public ImageButton a1 = findViewById(R.id.a1);
 //    public ImageButton a2 = findViewById(R.id.a2);
 //    public ImageButton a3 = findViewById(R.id.a3);
