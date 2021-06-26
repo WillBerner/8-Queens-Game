@@ -4,7 +4,6 @@ The Eight Queens puzzle game is a puzzle in which one must place 8 queen pieces 
 Users can tap on the screen on a square to place a queen, or again to remove the queen there.
 
 <img width="315" alt="Placing" src="https://user-images.githubusercontent.com/25047954/123498851-4cb1d900-d600-11eb-9124-c3164043b45b.png">
-# 8-Queens-Game
 
 If users try to place a queen where they cannot, an error message will appear letting the user know.
 
