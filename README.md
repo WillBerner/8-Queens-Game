@@ -11,3 +11,5 @@ Users can tap on the screen on a square to place a queen, or again to remove the
 If users try to place a queen where they cannot, an error message will appear letting the user know.
 
 <img width="315" alt="UnableToPlace" src="https://user-images.githubusercontent.com/25047954/123498854-52a7ba00-d600-11eb-86ba-5b87026cab24.png">
+
+&copy; 2021 [Will](https://github.com/WillBerner)
